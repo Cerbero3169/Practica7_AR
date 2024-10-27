@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="kirbyche" size="1.000000 0.750000" />
+    <ImageTarget name="meta-knight" size="1.000000 0.592000" />
+    <ImageTarget name="dee" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
